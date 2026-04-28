@@ -1,0 +1,2 @@
+-- Final PostgreSQL-aligned schema will be expanded during implementation.
+-- This placeholder exists as part of the initial scaffold.
